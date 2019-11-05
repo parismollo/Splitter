@@ -21,7 +21,7 @@ I am a student that is learning, let me know if you find any errors,the code is 
 
 ## The code
 
-** To make sure that our model isn't too complex, we need to use different data to train the model and to test it.
+* To make sure that our model isn't too complex, we need to use different data to train the model and to test it.
 Therefore we will start by splitting the dataset, two-thirds will be used to train, the remaining third to measure the model performance
 
 
