@@ -22,7 +22,7 @@ assert sorted(train + test) == data
 
 
 
-Y = TypeVar('Y')
+Y = TypeVar('Y') # This represents a output generic type
 
 def train_test_split(xs: List[X], ys: List[Y],
                     test_pct: float) -> Tuple[List[X], List[X], List[Y], List[Y]]:

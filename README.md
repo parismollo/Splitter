@@ -27,5 +27,7 @@ Therefore we will start by splitting the dataset, two-thirds will be used to tra
 ![splitting data](img/splitter01.png)
 
 
+* Now we need
+
 ## Resources that I used to learn about this fun topic:
 * Book: Data Science from Scratch, Joel Grus
