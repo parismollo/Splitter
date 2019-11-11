@@ -21,6 +21,10 @@ I am a student that is learning, let me know if you find any errors,the code is 
 
 * It is also important to measure the precision and recall of the model, therefore we can use the f1_score that combines both. Clearly there is a trade-off between precision and recall, the more precise you are, more likely you are to have a low recall (false negatives), in the other hand, saying yes too often will give a lot of false positives
 
+* There is often a Bias-Variance tradeoff, high bias and low variance corresponds to models that are likely to underfit 
+
+* High Variance and Low Bias is likely to correspond to models that overfit
+
 ## The code
 
 * To make sure that our model isn't too complex, we need to use different data to train the model and to test it.
