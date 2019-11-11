@@ -29,5 +29,15 @@ Therefore we will start by splitting the dataset, two-thirds will be used to tra
 
 * The data need to be paired, i.e. the inputs and outputs variables need to correspond to the training and the test set.
 
+![splitting data](img/splitter02.png)
+
+Now we could do something like instantiate the model, train it and finally test its performance
+
+
+Eventually we could split the data in three parts:
+1. Training set for building models 
+2. Validation to choose among the models
+3. Test for define the final best model
+
 ## Resources that I used to learn about this fun topic:
 * Book: Data Science from Scratch, Joel Grus

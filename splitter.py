@@ -46,7 +46,7 @@ assert all(y == 2 * x for x, y in zip(x_train, y_train))
 assert all(y == 2 * x for x, y in zip(x_test, y_test))
 
 # we could then try something like this !
-'''model = MultinaiveBayes()
+'''model = MultinomialNB()
 x_train, x_test, y_train, y_test = train_test_split(xs, ys, 0,33)
 model.train(x_train, y_train)
 performance = model.test(x_test, y_test)'''
