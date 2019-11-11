@@ -27,7 +27,7 @@ Therefore we will start by splitting the dataset, two-thirds will be used to tra
 ![splitting data](img/splitter01.png)
 
 
-* Now we need
+* The data need to be paired, i.e. the inputs and outputs variables need to correspond to the training and the test set.
 
 ## Resources that I used to learn about this fun topic:
 * Book: Data Science from Scratch, Joel Grus
